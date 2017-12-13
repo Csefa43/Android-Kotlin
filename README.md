@@ -376,11 +376,12 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 
 * [Güncellenecek](http://googlecom)
 
-### Haftaklık veya Günlük RSS Kayıtları
+### Haftalık veya Günlük RSS Kayıtları
   * 
     * Türkçe
 * [Mobil Dünya](http://mobildunya.ahmet.ws/)
 * [Hackathonturkiye](https://hackathonturkiye.com)
+  
   * 
     * İngilizce
 * [Kotlin Weekly](http://kotlinweekly.net/)
