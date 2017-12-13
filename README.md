@@ -377,13 +377,11 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 * [Güncellenecek](http://googlecom)
 
 ### Haftalık veya Günlük RSS Kayıtları
-  * 
-    * Türkçe
+* **Türkçe**
 * [Mobil Dünya](http://mobildunya.ahmet.ws/)
 * [Hackathonturkiye](https://hackathonturkiye.com)
-  
-  * 
-    * İngilizce
+
+* **İngilizce**
 * [Kotlin Weekly](http://kotlinweekly.net/)
 * [Android Weekly](http://androidweekly.net/)
 * [Academy.Realm.IO](https://academy.realm.io/section/android/)
