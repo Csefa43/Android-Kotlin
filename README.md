@@ -392,6 +392,7 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 
 * **İngilizce**
 * [droidcon SF 2017](https://www.youtube.com/playlist?list=PLYioXtkIMlS8wsv0jaA3ArxGtZ0RMLZR2)
+* [KotlinConf 2017](https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5)
 
 ### Slack Kanalları
 
