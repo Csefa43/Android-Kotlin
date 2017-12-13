@@ -386,7 +386,12 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 * [Android Weekly](http://androidweekly.net/)
 * [Academy.Realm.IO](https://academy.realm.io/section/android/)
 
+### Konferans Video'ları
+* **Türkçe**
+* [AndroidDay'17] (https://www.youtube.com/playlist?list=PLSV3VvYZSJP1vo8PZYti9LHoWFUz5K7_4)
 
+* **İngilizce**
+* [droidcon SF 2017] (https://www.youtube.com/playlist?list=PLYioXtkIMlS8wsv0jaA3ArxGtZ0RMLZR2)
 
 ### Slack Kanalları
 
