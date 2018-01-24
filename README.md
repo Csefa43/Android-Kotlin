@@ -400,7 +400,7 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 
 ### PodCast'ler
 
-* [Güncellenecek](http://googlecom)
+* [Programming-Talks_Android](https://github.com/hellerve/programming-talks#java--android)
 
 ### Facebook Sayfa ve Grupları
 
