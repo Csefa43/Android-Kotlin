@@ -432,6 +432,10 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 
 * [Güncellenecek](http://googlecom)
 
+### Ücretsiz API'lar
+
+* [Mashape](https://market.mashape.com/)
+
 ### Filmler ve Diziler
 
 * [Güncellenecek](http://googlecom)
