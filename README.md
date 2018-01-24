@@ -407,6 +407,7 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 * [Güncellenecek](http://googlecom)
 
 ### Mutlaka Okunması Gereken Kaynaklar
+* [Stackoverflow İncelenerek Oluşturulmuş En Çok Tavsiye Edilen Kitap Listesi](http://www.dev-books.com/book/discover?tag=android)
 * [Okumanız Gereken En Önemli Kitaplar Listesi](https://github.com/chhantyal/influential-cs-books)
 
 ### Code Pratiği Yapılabilecek Siteler
