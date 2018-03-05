@@ -420,6 +420,9 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 * [CodeFights](https://codefights.com/)
 * [InterviewBit](https://www.interviewbit.com/)
 
+### Etkinlikler
+* [Android & iOS 2018 Etkinlik Takvimi](https://bugfender.com/conferences/)
+
 ### Bloglar
 
 * [Güncellenecek](http://googlecom)
