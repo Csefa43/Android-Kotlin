@@ -437,6 +437,7 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 
 ### Ücretsiz API'lar
 
+* [AppSight.IO](https://www.appsight.io/?os=android)
 * [Mashape](https://market.mashape.com/)
 
 ### Filmler ve Diziler
