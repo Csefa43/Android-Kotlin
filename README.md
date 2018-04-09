@@ -374,7 +374,7 @@ Geliştirdiğiniz veya çözdüğünüz tüm Ev Ödevi ve Projeler için ReadMe 
 
 ### Her Android Geliştiricinin Bilmesi Gereken Kütüphaneler
 
-* [Güncellenecek](http://googlecom)
+* [Lib4dev](http://www.lib4dev.com/topics/kotlin?p=1&s=)
 
 ### Haftalık veya Günlük RSS Kayıtları
 * **Türkçe**
